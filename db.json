@@ -1,0 +1,29 @@
+{
+"games": [
+{
+"id": 1,
+"nome": "Final Fantasy XVI",
+"preco": "180,00",
+"imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202211/3007/lgFVhRm5BfoX02pRUt3lSmLV.png"
+},
+{
+"id": 2,
+"nome": "Black Myth: Wukong",
+"preco": "260,00",
+"imagem": "https://pics.filmaffinity.com/black_myth_wukong-856105810-large.jpg"
+},
+{
+"id": 6,
+"nome": "Senua's Saga: Hellblade II",
+"preco": "210,00",
+"imagem": "https://assetsio.gnwcdn.com/co6m1n.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp"
+},
+{
+"nome": "Elden Ring",
+"preco": "250,00",
+"imagem": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2000/aGhopp3MHppi7kooGE2Dtt8C.png",
+"id": 9
+}
+
+]
+}
