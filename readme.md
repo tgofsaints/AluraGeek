@@ -73,3 +73,7 @@ Desenvolvido por Thiago Santos como parte do Challenge do programa ONE Oracle em
 - Equipe Alura e Oracle pelo suporte e oportunidade.
 - Comunidade de desenvolvedores pela inspiração e recursos.
 
+
+##Sreenshot
+
+![Screenshot do AluraGeek ilustrando seu visual](screenshot.png)
